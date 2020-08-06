@@ -11,6 +11,7 @@ public class Student {
 	// @Id annotation specifies the primary key of an entity.
 	// @GeneratedValue provides the generation strategy specification for the primary key values.
 	@Id
+	//lolo
 	private int id;
 	private String name;
 	private int age;
