@@ -6,6 +6,7 @@ import javax.persistence.Table;
 //mark class as an Entity 
 @Entity
 //defining class name as Table name
+//lol
 @Table
 public class Books
 {

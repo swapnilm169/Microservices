@@ -1,7 +1,6 @@
 package com.springboot.h2.model;
 
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 // @Entity annotation specifies that the class is mapped to a database table.
